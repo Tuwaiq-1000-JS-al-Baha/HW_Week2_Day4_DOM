@@ -1,4 +1,4 @@
-# Week2 day4 DOM HW
+# Week 2 day 4 DOM HW
 
 ## HW:
 ### About Me
